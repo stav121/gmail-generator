@@ -31,5 +31,5 @@ This program is released under MIT license.
 <ul> The author is not responsible for any damage caused by the script so use it with caution.</ul>
 
 <h3>Author:</h3> <ul>Stavros Grigoriou</ul>
-<h3>GitHub:</h3> <ul>https://github.com/unix121i</ul>
+<h3>GitHub:</h3> <ul>https://github.com/unix121</ul>
 <h3>E-mail:</h3> <ul>unix121@protonmail.com</ul>
