@@ -2,7 +2,7 @@
 <ul>
 	Python script that generates a new Gmail account with random credentials.
 
-	![](https://github.com/unix121/gmail-generator/blob/master/workflow/workflow.gif?raw=true)
+![](https://github.com/unix121/gmail-generator/blob/master/workflow/workflow.gif?raw=true)
 </ul>
 
 <h1>About</h1>
