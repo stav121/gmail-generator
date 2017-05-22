@@ -5,8 +5,9 @@
 ![](https://github.com/unix121/gmail-generator/blob/master/workflow/workflow.gif?raw=true)
 </ul>
 
-<ul>
+
 <h3>License</h3>
+<ul>
 This program is released under MIT license.
 </ul>
 
@@ -29,6 +30,6 @@ This program is released under MIT license.
 <h3>Disclaimer </h3>
 <ul> The author is not responsible for any damage caused by the script so use it with caution.</ul>
 
-<h3>Author:</h3> Stavros Grigoriou
-<h3>GitHub:</h3> https://github.com/unix121i
-<h3>E-mail:</h3> unix121@protonmail.com
+<h3>Author:</h3> <ul>Stavros Grigoriou</ul>
+<h3>GitHub:</h3> <ul>https://github.com/unix121i</ul>
+<h3>E-mail:</h3> <ul>unix121@protonmail.com</ul>
