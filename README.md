@@ -15,7 +15,7 @@ This program is released under MIT license.
 <ul> This script was written for research purposes a couple of years ago and now I've reworked it a bit for better functionality. It will generate random credentials for a new Gmail account. It autostarts Firefox and is autodirected, you don't have to do anything other than run the script. I've never tested it on any other system so it might need a bit configuration based on your system.
 </ul>
 
-<h3>What you might need and how to run</h3>
+<h3>What you might need and how to run the script</h3>
 <ul>
 	<li> You must have <a href="https://pypi.python.org/pypi/PyAutoGUI">pyautogui</a> installed </li>
 	<li> Firefox </li>
