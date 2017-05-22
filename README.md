@@ -11,7 +11,7 @@
 
 <h1>What you might need and how to run</h1>
 <ul>
-	<li> You must have <a href="https://pypi.python.org/pypi/PyAutoGUI>pyautogui</a> installed </li>
+	<li> You must have <a href="https://pypi.python.org/pypi/PyAutoGUI">pyautogui</a> installed </li>
 	<li> Firefox </li>
 	<li> Replace the image under /source/images/start_button.png with your menu's icon</li>
 	<li> Run the script 
