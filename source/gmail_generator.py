@@ -1,7 +1,7 @@
 #! python3
 
 #   Author      : Stavros Grigoriou
-#   GitHub      : https://gihub.com/unix121
+#   GitHub      : https://github.com/unix121
 #   Year        : 2017
 #   Description : Script that generates random Gmail account.
 
@@ -171,7 +171,7 @@ def generate_info():
     pyautogui.typewrite('R\t')
     msg(2,'\x1b[0;33;40mGender:\x1b[0m Rather not say')
 
-    # Scip the rest
+    # Skip the rest
     pyautogui.typewrite('\t\t\t\t\n')
 
 # Main function
