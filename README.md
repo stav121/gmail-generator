@@ -33,3 +33,6 @@ This program is released under MIT license.
 <h3>Author:</h3> <ul>Stavros Grigoriou</ul>
 <h3>GitHub:</h3> <ul>https://github.com/unix121</ul>
 <h3>E-mail:</h3> <ul>unix121@protonmail.com</ul>
+
+<h3>Support this project</h3>
+Patreon: https://www.patreon.com/unix121
