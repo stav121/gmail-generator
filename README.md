@@ -22,7 +22,9 @@ This program is released under MIT license.
 	<li> Replace the image under /source/images/start_button.png with your menu's icon</li>
 	<li> Run the script 
 
-		python gmail_generator.py	
+		python gmail_generator.py
+		or
+		python3 gmail_generator.py
 
 </li>
 </ul>
