@@ -51,7 +51,7 @@ def open_firefox():
         msg(3,'Failed to open start menu!')
         ext()
 
-    time.sleep(1)
+    time.sleep(2)
 
     # Search for Firefox in the menu search
     pyautogui.typewrite('firefox')
@@ -65,7 +65,7 @@ def open_firefox():
 def locate_gmail():
     
     #Sleep for a while and wait for Firefox to open
-    time.sleep(2)
+    time.sleep(6)
 
     # Printing message
     msg(1,'Opening Gmail...')
@@ -76,17 +76,22 @@ def locate_gmail():
     pyautogui.typewrite('\n')
     
     # Wait for a while until the website responds
-    time.sleep(3)
+    time.sleep(10)
 
     # Print a simple message
     msg(1,'Locating the form...')
 
     # Locate the form
-    _gmail_=pyautogui.locateOnScreen('images/gmail_form.png')
-    _form_=pyautogui.center(_gmail_)
+    pyautogui.press('tab')
+ 
+    time.sleep(2)
+
+    _gmail_ = pyautogui.locateOnScreen('images/gmail_form.png')
+    formx, formy = pyautogui.center(_gmail_)
+    pyautogui.click(formx, formy)
     
     # Check and print message
-    if not pyautogui.click(_form_):
+    if not pyautogui.click(formx, formy):
         msg(1,'Located the form.')
     else:
         msg(3,'Failed to locate the form.')
