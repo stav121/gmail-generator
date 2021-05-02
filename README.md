@@ -29,12 +29,8 @@ This program is released under MIT license.
 </li>
 </ul>
 
-<h3>Disclaimer </h3>
+<h3>Disclaimer</h3>
 <ul> The author is not responsible for any damage caused by the script so use it with caution.</ul>
 
 <h3>Author:</h3> <ul>Stavros Grigoriou</ul>
 <h3>GitHub:</h3> <ul>https://github.com/unix121</ul>
-<h3>E-mail:</h3> <ul>unix121@protonmail.com</ul>
-
-<h3>Support this project</h3>
-Patreon: https://www.patreon.com/unix121
